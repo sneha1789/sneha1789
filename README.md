@@ -17,24 +17,77 @@
 
 ---
 
+# 🚀 Featured Projects
+
+### 🛍️ HimaVogue
+Cultural fashion e-commerce platform with modern UI and scalable architecture.
+
+**Tech:** Next.js • Django REST • PostgreSQL • Tailwind • Shadcn
+
+---
+
+### 💰 Expense Tracker (Ongoing)
+
+AI-powered financial tracker with automated expense categorization.
+
+Features:
+- secure authentication
+- analytics dashboard
+- predictive budgeting
+
+**Tech:** React • Node.js • PostgreSQL
+
+---
+
+### 🏋️ Fitness Tracking WebApp
+
+A full-stack fitness platform with personalized workout and diet plans.
+
+**Tech:** React • Node.js • Express • Tailwind
+
+Live:  
+https://fitness-website-azure-pi.vercel.app/
+
+---
+
+### 📱 Task Management Android App
+
+Native Android task manager with modern architecture.
+
+**Tech:** Kotlin • MVVM • Room Database • Jetpack Compose
+
+---
 
 # 🛠 Tech Stack
 
 ### Frontend
-![React](https://img.shields.io/badge/React-blue?style=for-the-badge&logo=react)
-![NextJS](https://img.shields.io/badge/Next.js-black?style=for-the-badge&logo=next.js)
-![TailwindCSS](https://img.shields.io/badge/TailwindCSS-blue?style=for-the-badge&logo=tailwind-css)
+<p>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="45"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="45"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="45"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="45"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="45"/>
+</p>
 
 ### Backend
-![Django](https://img.shields.io/badge/Django-green?style=for-the-badge&logo=django)
-![Django REST](https://img.shields.io/badge/DjangoREST-red?style=for-the-badge)
+<p>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" height="45"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="45"/>
+</p>
 
 ### Database
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-blue?style=for-the-badge&logo=postgresql)
+<p>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="45"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="45"/>
+</p>
 
 ### Tools
-![Git](https://img.shields.io/badge/Git-orange?style=for-the-badge&logo=git)
-![VSCode](https://img.shields.io/badge/VSCode-blue?style=for-the-badge&logo=visualstudiocode)
+<p>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="45"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="45"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="45"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="45"/>
+</p>
 
 ---
 
@@ -42,27 +95,40 @@
 
 ![Sneha's GitHub stats](https://github-readme-stats.vercel.app/api?username=sneha1789&show_icons=true&theme=tokyonight)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sneha1789&layout=compact&theme=tokyonight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sneha1789&layout=compact&theme=tokyonight)
 
 ---
 
-## 🔥 GitHub Streak
+# 🔥 GitHub Streak
 
 ![GitHub Streak](https://streak-stats.demolab.com?user=sneha1789&theme=tokyonight)
 
 ---
 
-# 📈 Contribution Graph
+# 🎓 Education
 
-![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=sneha1789&theme=tokyo-night)
+🎓 **Bachelor of Engineering in Information Technology**  
+Aditya Engineering College – JNTUK  
+CGPA: **8.55**
+
+---
+
+# 🏆 Achievements
+
+🏅 Academic Excellence Topper – JNTUK  
+🏅 Coding Contest Winner – JNTUK  
+🏅 Leadership Recognition – College Tech Fest
 
 ---
 
 # 🔗 Connect With Me
 
-💼 LinkedIn: (https://www.linkedin.com/in/sneha-khatoon-0b3882295/)
-📧 Email: (snehakhatoon18@gmail.com)
+💼 LinkedIn: https://www.linkedin.com/in/sneha-khatoon-0b3882295/
+
+🐙 GitHub: https://github.com/sneha1789  
+
+📧 Email: snehakhatoon18@gmail.com
 
 ---
 
-⭐ *Thanks for visiting my profile!*
+⭐ Thanks for visiting my profile!
