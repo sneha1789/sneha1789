@@ -46,7 +46,7 @@
 
 ---
 
-# 🔥 GitHub Streak
+## 🔥 GitHub Streak
 
 ![GitHub Streak](https://streak-stats.demolab.com?user=sneha1789&theme=tokyonight)
 
@@ -60,7 +60,7 @@
 
 # 🔗 Connect With Me
 
-💼 LinkedIn: ([Add your LinkedIn link](https://www.linkedin.com/in/sneha-khatoon-0b3882295/))  
+💼 LinkedIn: (https://www.linkedin.com/in/sneha-khatoon-0b3882295/)
 📧 Email: (snehakhatoon18@gmail.com)
 
 ---
