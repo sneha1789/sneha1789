@@ -113,14 +113,6 @@ CGPA: **8.55**
 
 ---
 
-# 🏆 Achievements
-
-🏅 Academic Excellence Topper – JNTUK  
-🏅 Coding Contest Winner – JNTUK  
-🏅 Leadership Recognition – College Tech Fest
-
----
-
 # 🔗 Connect With Me
 
 💼 LinkedIn: https://www.linkedin.com/in/sneha-khatoon-0b3882295/
